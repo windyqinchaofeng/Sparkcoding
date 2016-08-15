@@ -1,4 +1,4 @@
-package com.csap.spqrk
+package com.csap.spark
 
 import org.apache.spark.SparkConf
 import org.apache.spark.SparkContext
